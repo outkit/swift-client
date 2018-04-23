@@ -1,4 +1,4 @@
-## Outkit Rust API client
+## Outkit Swift API client
 This will become the official [Swift](https://developer.apple.com/swift/) client for 
 the [Outkit](https://outkit.io/) [API](https://docs.outkit.io/). 
 
